@@ -1,0 +1,6 @@
+I:\My DropBox\Visual Studio 2005\MapGis\MapGis\obj\Debug\ResolveAssemblyReference.cache
+I:\My DropBox\Visual Studio 2005\MapGis\MapGis\bin\MapGis.dll
+I:\My DropBox\Visual Studio 2005\MapGis\MapGis\bin\MapGis.pdb
+I:\My DropBox\Visual Studio 2005\MapGis\MapGis\bin\mapscript_csharp.dll
+I:\My DropBox\Visual Studio 2005\MapGis\MapGis\obj\Debug\MapGis.dll
+I:\My DropBox\Visual Studio 2005\MapGis\MapGis\obj\Debug\MapGis.pdb
